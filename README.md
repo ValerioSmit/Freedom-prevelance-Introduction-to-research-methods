@@ -1,4 +1,5 @@
 # Intro-research-methods
+# Research proposal/plan
 ## Abstract
 This project looks into the prevalence of words associated with freedom in texts by two authors: one who wrote before 1914 and one who wrote after 1945.
 These specific dates are chosen to examine the impact of the two World Wars on how freedom appears in literature.
